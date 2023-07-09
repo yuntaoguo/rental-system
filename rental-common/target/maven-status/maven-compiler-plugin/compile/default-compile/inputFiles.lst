@@ -1,0 +1,15 @@
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/config/BaseRedisConfig.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/api/IErrorCode.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/util/RequestUtil.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/exception/ApiException.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/api/CommonPage.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/domain/WebLog.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/config/BaseSwaggerConfig.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/exception/Asserts.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/service/RedisService.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/api/ResultCode.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/service/impl/RedisServiceImpl.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/api/CommonResult.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/log/WebLogAspect.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/domain/SwaggerProperties.java
+/Users/yuntao.guo/ideaworkspace/rental-system/rental-common/src/main/java/com/lykj/rental/common/exception/GlobalExceptionHandler.java
